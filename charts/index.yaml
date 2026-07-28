@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   capone-monitor:
   - apiVersion: v2
+    appVersion: v0.4.0
+    created: "2026-07-28T11:58:17.253241654+02:00"
+    description: In-cluster OpenNebula Node and HelmChart status monitor
+    digest: 1765790bdf3c66b1c49be16f00f96dbbaee4c575c0f83b17deb0860defac458a
+    name: capone-monitor
+    type: application
+    urls:
+    - https://jaimecb.github.io/k8s-monitoring/charts/capone-monitor-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
     appVersion: v0.3.0
-    created: "2026-07-20T10:34:34.56498039+02:00"
+    created: "2026-07-28T11:58:17.253136666+02:00"
     description: In-cluster OpenNebula Node and HelmChart status monitor
     digest: 6368e54f58f98c0c14d09c2e00c46284a5d98bc35b656c6bc53d1cd9f46d3875
     name: capone-monitor
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://jaimecb.github.io/k8s-monitoring/charts/capone-monitor-0.3.0.tgz
     version: 0.3.0
-generated: "2026-07-20T10:34:34.564493521+02:00"
+generated: "2026-07-28T11:58:17.25276938+02:00"

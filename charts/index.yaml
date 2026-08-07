@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   capone-monitor:
   - apiVersion: v2
+    appVersion: v0.6.0
+    created: "2026-08-07T09:41:00.726784551+02:00"
+    description: In-cluster OpenNebula Node and HelmChart status monitor
+    digest: a0c771454bba03b6eb8092d2377e108c56a09a0c21a07fd07ccd8ee20ef0fa7a
+    name: capone-monitor
+    type: application
+    urls:
+    - https://jaimecb.github.io/k8s-monitoring/charts/capone-monitor-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v2
     appVersion: v0.5.0
-    created: "2026-07-29T10:35:00.440873752+02:00"
+    created: "2026-08-07T09:41:00.726663093+02:00"
     description: In-cluster OpenNebula Node and HelmChart status monitor
     digest: 9afcb6bbc93695f51c3b9e780cfcfe58c895b71a0b3d773731041ef79411f58d
     name: capone-monitor
@@ -13,7 +23,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: v0.4.0
-    created: "2026-07-29T10:35:00.440106317+02:00"
+    created: "2026-08-07T09:41:00.7259662+02:00"
     description: In-cluster OpenNebula Node and HelmChart status monitor
     digest: 1765790bdf3c66b1c49be16f00f96dbbaee4c575c0f83b17deb0860defac458a
     name: capone-monitor
@@ -23,7 +33,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: v0.3.0
-    created: "2026-07-29T10:35:00.439856724+02:00"
+    created: "2026-08-07T09:41:00.725708125+02:00"
     description: In-cluster OpenNebula Node and HelmChart status monitor
     digest: 6368e54f58f98c0c14d09c2e00c46284a5d98bc35b656c6bc53d1cd9f46d3875
     name: capone-monitor
@@ -31,4 +41,15 @@ entries:
     urls:
     - https://jaimecb.github.io/k8s-monitoring/charts/capone-monitor-0.3.0.tgz
     version: 0.3.0
-generated: "2026-07-29T10:35:00.438227197+02:00"
+  oneks-application-controller:
+  - apiVersion: v2
+    appVersion: v0.6.0
+    created: "2026-08-07T09:41:00.726962937+02:00"
+    description: Isolated in-cluster executor for compiled OneKS application plans
+    digest: a75522a300e4c9e9d0124b4e692416897b9ac99834800655dfe2a6682e4a002a
+    name: oneks-application-controller
+    type: application
+    urls:
+    - https://jaimecb.github.io/k8s-monitoring/charts/oneks-application-controller-0.6.0.tgz
+    version: 0.6.0
+generated: "2026-08-07T09:41:00.72510453+02:00"

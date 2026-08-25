@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   capone-monitor:
   - apiVersion: v2
+    appVersion: v0.8.0
+    created: "2026-08-25T10:51:07.739891142+02:00"
+    description: In-cluster OpenNebula Node and OneKSApplication status monitor
+    digest: 2fe8c164c6fc0b03d486c1e1994bb3c9d1eb1dbeb635dc98360872622ca07576
+    name: capone-monitor
+    type: application
+    urls:
+    - https://jaimecb.github.io/k8s-monitoring/charts/capone-monitor-0.8.0.tgz
+    version: 0.8.0
+  - apiVersion: v2
     appVersion: v0.7.1
-    created: "2026-08-24T14:35:01.443149388+02:00"
+    created: "2026-08-25T10:51:07.739539583+02:00"
     description: In-cluster OpenNebula Node and HelmChart status monitor
     digest: 2836803f3e46f2f6af7d2fb9a2191093b9821ca2da9e3f54ea9942aa92872444
     name: capone-monitor
@@ -13,7 +23,7 @@ entries:
     version: 0.7.1
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2026-08-24T14:35:01.442902075+02:00"
+    created: "2026-08-25T10:51:07.739005916+02:00"
     description: In-cluster OpenNebula Node and HelmChart status monitor
     digest: 787e5a2cc32ece7851d707914b7d7da4479ac59e7d570da4cbbbe91f34e1ed40
     name: capone-monitor
@@ -23,7 +33,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: v0.6.0
-    created: "2026-08-24T14:35:01.442699041+02:00"
+    created: "2026-08-25T10:51:07.738500756+02:00"
     description: In-cluster OpenNebula Node and HelmChart status monitor
     digest: a0c771454bba03b6eb8092d2377e108c56a09a0c21a07fd07ccd8ee20ef0fa7a
     name: capone-monitor
@@ -33,7 +43,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2026-08-24T14:35:01.442477436+02:00"
+    created: "2026-08-25T10:51:07.738053052+02:00"
     description: In-cluster OpenNebula Node and HelmChart status monitor
     digest: 9afcb6bbc93695f51c3b9e780cfcfe58c895b71a0b3d773731041ef79411f58d
     name: capone-monitor
@@ -43,7 +53,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: v0.4.0
-    created: "2026-08-24T14:35:01.44228304+02:00"
+    created: "2026-08-25T10:51:07.737640075+02:00"
     description: In-cluster OpenNebula Node and HelmChart status monitor
     digest: 1765790bdf3c66b1c49be16f00f96dbbaee4c575c0f83b17deb0860defac458a
     name: capone-monitor
@@ -53,7 +63,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: v0.3.0
-    created: "2026-08-24T14:35:01.442062947+02:00"
+    created: "2026-08-25T10:51:07.737211441+02:00"
     description: In-cluster OpenNebula Node and HelmChart status monitor
     digest: 6368e54f58f98c0c14d09c2e00c46284a5d98bc35b656c6bc53d1cd9f46d3875
     name: capone-monitor
@@ -63,8 +73,18 @@ entries:
     version: 0.3.0
   oneks-application-controller:
   - apiVersion: v2
+    appVersion: v0.9.0
+    created: "2026-08-25T10:51:07.743714424+02:00"
+    description: Isolated in-cluster executor for compiled OneKS application plans
+    digest: 299a402eaa4912af2b66f5e9e8afe065d7812a21fe1feee5ff6cd8b42f112611
+    name: oneks-application-controller
+    type: application
+    urls:
+    - https://jaimecb.github.io/k8s-monitoring/charts/oneks-application-controller-0.9.0.tgz
+    version: 0.9.0
+  - apiVersion: v2
     appVersion: v0.8.1
-    created: "2026-08-24T14:35:01.444525626+02:00"
+    created: "2026-08-25T10:51:07.742906921+02:00"
     description: Isolated in-cluster executor for compiled OneKS application plans
     digest: 3c030d853e1f83f441a41e11817c4b18d7ba1e52a8f1ea5b40b491fa3ec0e34d
     name: oneks-application-controller
@@ -74,7 +94,7 @@ entries:
     version: 0.8.1
   - apiVersion: v2
     appVersion: v0.8.0
-    created: "2026-08-24T14:35:01.444193925+02:00"
+    created: "2026-08-25T10:51:07.742064268+02:00"
     description: Isolated in-cluster executor for compiled OneKS application plans
     digest: 1a3a5b61e0359c53154c67ceaab3033a865ea1624b0c1065e1fffda982ed67d5
     name: oneks-application-controller
@@ -84,7 +104,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2026-08-24T14:35:01.443727507+02:00"
+    created: "2026-08-25T10:51:07.741208684+02:00"
     description: Isolated in-cluster executor for compiled OneKS application plans
     digest: 8f69fa492c182e333c8692b6344682ae9a4d28d5b8cc83283397cc13fc085ae2
     name: oneks-application-controller
@@ -94,7 +114,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: v0.6.0
-    created: "2026-08-24T14:35:01.443444931+02:00"
+    created: "2026-08-25T10:51:07.740505648+02:00"
     description: Isolated in-cluster executor for compiled OneKS application plans
     digest: a75522a300e4c9e9d0124b4e692416897b9ac99834800655dfe2a6682e4a002a
     name: oneks-application-controller
@@ -102,4 +122,4 @@ entries:
     urls:
     - https://jaimecb.github.io/k8s-monitoring/charts/oneks-application-controller-0.6.0.tgz
     version: 0.6.0
-generated: "2026-08-24T14:35:01.441688349+02:00"
+generated: "2026-08-25T10:51:07.736443374+02:00"

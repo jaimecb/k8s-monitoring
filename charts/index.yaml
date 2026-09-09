@@ -3,7 +3,7 @@ entries:
   capone-monitor:
   - apiVersion: v2
     appVersion: v0.21.0
-    created: "2026-09-09T13:38:29.792013788+02:00"
+    created: "2026-09-09T17:15:33.63274332+02:00"
     description: In-cluster OpenNebula Node event monitor
     digest: a63c482fb8d99813187b081bf2308af63285a69b298f3525a67ee1f7b4957ab7
     name: capone-monitor
@@ -13,7 +13,7 @@ entries:
     version: 0.21.0
   - apiVersion: v2
     appVersion: v0.20.0
-    created: "2026-09-09T13:38:29.791841799+02:00"
+    created: "2026-09-09T17:15:33.631361602+02:00"
     description: In-cluster OpenNebula Node and OneKSApplication status monitor
     digest: 90bc40e7520ba22fcab5187369c5584e5e5ec772ff852f4ca1486f5fcf0b7b79
     name: capone-monitor
@@ -23,7 +23,7 @@ entries:
     version: 0.20.0
   - apiVersion: v2
     appVersion: v0.19.0
-    created: "2026-09-09T13:38:29.791444038+02:00"
+    created: "2026-09-09T17:15:33.62435032+02:00"
     description: In-cluster OpenNebula Node and OneKSApplication status monitor
     digest: ef5753d6602a03beb6ebd2fa87b382213f3dff13b78ddad5bd861f4102899e0b
     name: capone-monitor
@@ -33,7 +33,7 @@ entries:
     version: 0.19.0
   - apiVersion: v2
     appVersion: v0.18.0
-    created: "2026-09-09T13:38:29.791053261+02:00"
+    created: "2026-09-09T17:15:33.622585581+02:00"
     description: In-cluster OpenNebula Node and OneKSApplication status monitor
     digest: d83afa7fd790137c5ab6e5daadaeb8f6f99607eb3fda667697c76cf8a1749468
     name: capone-monitor
@@ -43,7 +43,7 @@ entries:
     version: 0.18.0
   - apiVersion: v2
     appVersion: v0.16.0
-    created: "2026-09-09T13:38:29.790664351+02:00"
+    created: "2026-09-09T17:15:33.618036271+02:00"
     description: In-cluster OpenNebula Node and OneKSApplication status monitor
     digest: c2c1d9cec37443db23e8140a2d12b38dfacbb380a2e3d24ad99302692f569673
     name: capone-monitor
@@ -53,7 +53,7 @@ entries:
     version: 0.16.0
   - apiVersion: v2
     appVersion: v0.15.0
-    created: "2026-09-09T13:38:29.789922436+02:00"
+    created: "2026-09-09T17:15:33.614088368+02:00"
     description: In-cluster OpenNebula Node and OneKSApplication status monitor
     digest: 1608354dd461e154c50db182fec661235c5a7fbe07426b8c3ad24f9eea2ee620
     name: capone-monitor
@@ -63,7 +63,7 @@ entries:
     version: 0.15.0
   - apiVersion: v2
     appVersion: v0.14.0
-    created: "2026-09-09T13:38:29.789503279+02:00"
+    created: "2026-09-09T17:15:33.609356542+02:00"
     description: In-cluster OpenNebula Node and OneKSApplication status monitor
     digest: 2e535752d9a753f39b3d98d666598d78b0ca6880e99fa16cd50131a674f54a31
     name: capone-monitor
@@ -73,7 +73,7 @@ entries:
     version: 0.14.0
   - apiVersion: v2
     appVersion: v0.13.0
-    created: "2026-09-09T13:38:29.788655067+02:00"
+    created: "2026-09-09T17:15:33.597787748+02:00"
     description: In-cluster OpenNebula Node and OneKSApplication status monitor
     digest: 8b5c1d8de0c2aca10d7f6dfc4144fb4700d18263ed6aceaab09a59a2cb800449
     name: capone-monitor
@@ -83,7 +83,7 @@ entries:
     version: 0.13.0
   - apiVersion: v2
     appVersion: v0.12.0
-    created: "2026-09-09T13:38:29.78833021+02:00"
+    created: "2026-09-09T17:15:33.592923421+02:00"
     description: In-cluster OpenNebula Node and OneKSApplication status monitor
     digest: 57e02d37fc6a88db1d0fc1e9f6a23367c7742def25f05017e89b9243d30e9738
     name: capone-monitor
@@ -93,7 +93,7 @@ entries:
     version: 0.12.0
   - apiVersion: v2
     appVersion: v0.11.0
-    created: "2026-09-09T13:38:29.788015509+02:00"
+    created: "2026-09-09T17:15:33.590222469+02:00"
     description: In-cluster OpenNebula Node and OneKSApplication status monitor
     digest: dcbe85060a84c805127419f0f2752616b26d6613b3348d276bfd0f9c2aabd6eb
     name: capone-monitor
@@ -103,7 +103,7 @@ entries:
     version: 0.11.0
   - apiVersion: v2
     appVersion: v0.10.0
-    created: "2026-09-09T13:38:29.787239307+02:00"
+    created: "2026-09-09T17:15:33.587947801+02:00"
     description: In-cluster OpenNebula Node and OneKSApplication status monitor
     digest: 94eba1ba8f150583b5059a4f43538ccfca32c7f04bc4173cb184442afbca3f63
     name: capone-monitor
@@ -113,7 +113,7 @@ entries:
     version: 0.10.0
   - apiVersion: v2
     appVersion: v0.8.0
-    created: "2026-09-09T13:38:29.795549275+02:00"
+    created: "2026-09-09T17:15:33.652379353+02:00"
     description: In-cluster OpenNebula Node and OneKSApplication status monitor
     digest: 2fe8c164c6fc0b03d486c1e1994bb3c9d1eb1dbeb635dc98360872622ca07576
     name: capone-monitor
@@ -123,7 +123,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: v0.7.1
-    created: "2026-09-09T13:38:29.795189698+02:00"
+    created: "2026-09-09T17:15:33.650316256+02:00"
     description: In-cluster OpenNebula Node and HelmChart status monitor
     digest: 2836803f3e46f2f6af7d2fb9a2191093b9821ca2da9e3f54ea9942aa92872444
     name: capone-monitor
@@ -133,7 +133,7 @@ entries:
     version: 0.7.1
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2026-09-09T13:38:29.794404126+02:00"
+    created: "2026-09-09T17:15:33.646587957+02:00"
     description: In-cluster OpenNebula Node and HelmChart status monitor
     digest: 787e5a2cc32ece7851d707914b7d7da4479ac59e7d570da4cbbbe91f34e1ed40
     name: capone-monitor
@@ -143,7 +143,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: v0.6.0
-    created: "2026-09-09T13:38:29.793937844+02:00"
+    created: "2026-09-09T17:15:33.644611585+02:00"
     description: In-cluster OpenNebula Node and HelmChart status monitor
     digest: a0c771454bba03b6eb8092d2377e108c56a09a0c21a07fd07ccd8ee20ef0fa7a
     name: capone-monitor
@@ -153,7 +153,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2026-09-09T13:38:29.79337096+02:00"
+    created: "2026-09-09T17:15:33.641005959+02:00"
     description: In-cluster OpenNebula Node and HelmChart status monitor
     digest: 9afcb6bbc93695f51c3b9e780cfcfe58c895b71a0b3d773731041ef79411f58d
     name: capone-monitor
@@ -163,7 +163,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: v0.4.0
-    created: "2026-09-09T13:38:29.793094047+02:00"
+    created: "2026-09-09T17:15:33.639779283+02:00"
     description: In-cluster OpenNebula Node and HelmChart status monitor
     digest: 1765790bdf3c66b1c49be16f00f96dbbaee4c575c0f83b17deb0860defac458a
     name: capone-monitor
@@ -173,7 +173,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: v0.3.0
-    created: "2026-09-09T13:38:29.792782881+02:00"
+    created: "2026-09-09T17:15:33.636354571+02:00"
     description: In-cluster OpenNebula Node and HelmChart status monitor
     digest: 6368e54f58f98c0c14d09c2e00c46284a5d98bc35b656c6bc53d1cd9f46d3875
     name: capone-monitor
@@ -183,8 +183,18 @@ entries:
     version: 0.3.0
   oneks-application-controller:
   - apiVersion: v2
+    appVersion: v0.22.0
+    created: "2026-09-09T17:15:33.693833532+02:00"
+    description: Isolated in-cluster executor for compiled OneKS application plans
+    digest: a977077cceec86ada9eadd9cd6590692108f68cf087141abde95c7520e744bfb
+    name: oneks-application-controller
+    type: application
+    urls:
+    - https://jaimecb.github.io/k8s-monitoring/charts/oneks-application-controller-0.22.0.tgz
+    version: 0.22.0
+  - apiVersion: v2
     appVersion: v0.20.0
-    created: "2026-09-09T13:38:29.800405128+02:00"
+    created: "2026-09-09T17:15:33.68557523+02:00"
     description: Isolated in-cluster executor for compiled OneKS application plans
     digest: e73f3b89db3602ef940c724c4a60ad786aec86912b8a60091e3a7eb0714709da
     name: oneks-application-controller
@@ -194,7 +204,7 @@ entries:
     version: 0.20.0
   - apiVersion: v2
     appVersion: v0.19.0
-    created: "2026-09-09T13:38:29.799822127+02:00"
+    created: "2026-09-09T17:15:33.673347055+02:00"
     description: Isolated in-cluster executor for compiled OneKS application plans
     digest: 3d697b712b5619574f2f8575e2b01a74d7de5e3dbd83aca4c3f73c63f8f0bb1b
     name: oneks-application-controller
@@ -204,7 +214,7 @@ entries:
     version: 0.19.0
   - apiVersion: v2
     appVersion: v0.18.0
-    created: "2026-09-09T13:38:29.799343846+02:00"
+    created: "2026-09-09T17:15:33.668083686+02:00"
     description: Isolated in-cluster executor for compiled OneKS application plans
     digest: 4332c85429a6688f5c7fb43caca61e6aa3737ce7bd749011d71b1e38f5acc698
     name: oneks-application-controller
@@ -214,7 +224,7 @@ entries:
     version: 0.18.0
   - apiVersion: v2
     appVersion: v0.14.0
-    created: "2026-09-09T13:38:29.798810183+02:00"
+    created: "2026-09-09T17:15:33.664475089+02:00"
     description: Isolated in-cluster executor for compiled OneKS application plans
     digest: ffbbad5099a99c124ac3b1f98914daff40fe1a4ffac9470003075ef151e86fea
     name: oneks-application-controller
@@ -224,7 +234,7 @@ entries:
     version: 0.14.0
   - apiVersion: v2
     appVersion: v0.13.0
-    created: "2026-09-09T13:38:29.798185239+02:00"
+    created: "2026-09-09T17:15:33.661958085+02:00"
     description: Isolated in-cluster executor for compiled OneKS application plans
     digest: ca4a98ef02305ed60d0f385461d9a23ceafbfe8a71c11b848906fb232e505ddf
     name: oneks-application-controller
@@ -234,7 +244,7 @@ entries:
     version: 0.13.0
   - apiVersion: v2
     appVersion: v0.12.0
-    created: "2026-09-09T13:38:29.79727377+02:00"
+    created: "2026-09-09T17:15:33.659388871+02:00"
     description: Isolated in-cluster executor for compiled OneKS application plans
     digest: 24d3fcc0f93e4968a4d22cdd82074a65c855eb092d56d7906bf025a070c44208
     name: oneks-application-controller
@@ -244,7 +254,7 @@ entries:
     version: 0.12.0
   - apiVersion: v2
     appVersion: v0.10.0
-    created: "2026-09-09T13:38:29.796735468+02:00"
+    created: "2026-09-09T17:15:33.655467637+02:00"
     description: Isolated in-cluster executor for compiled OneKS application plans
     digest: d80540fae44147d4afc1c77abe3650b4a82744ff3befc8a4e97e06c99ba6e551
     name: oneks-application-controller
@@ -254,7 +264,7 @@ entries:
     version: 0.10.0
   - apiVersion: v2
     appVersion: v0.9.0
-    created: "2026-09-09T13:38:29.802738211+02:00"
+    created: "2026-09-09T17:15:33.708881055+02:00"
     description: Isolated in-cluster executor for compiled OneKS application plans
     digest: 299a402eaa4912af2b66f5e9e8afe065d7812a21fe1feee5ff6cd8b42f112611
     name: oneks-application-controller
@@ -264,7 +274,7 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: v0.8.1
-    created: "2026-09-09T13:38:29.802223937+02:00"
+    created: "2026-09-09T17:15:33.705965916+02:00"
     description: Isolated in-cluster executor for compiled OneKS application plans
     digest: 3c030d853e1f83f441a41e11817c4b18d7ba1e52a8f1ea5b40b491fa3ec0e34d
     name: oneks-application-controller
@@ -274,7 +284,7 @@ entries:
     version: 0.8.1
   - apiVersion: v2
     appVersion: v0.8.0
-    created: "2026-09-09T13:38:29.801716151+02:00"
+    created: "2026-09-09T17:15:33.702847564+02:00"
     description: Isolated in-cluster executor for compiled OneKS application plans
     digest: 1a3a5b61e0359c53154c67ceaab3033a865ea1624b0c1065e1fffda982ed67d5
     name: oneks-application-controller
@@ -284,7 +294,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2026-09-09T13:38:29.801260726+02:00"
+    created: "2026-09-09T17:15:33.699731766+02:00"
     description: Isolated in-cluster executor for compiled OneKS application plans
     digest: 8f69fa492c182e333c8692b6344682ae9a4d28d5b8cc83283397cc13fc085ae2
     name: oneks-application-controller
@@ -294,7 +304,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: v0.6.0
-    created: "2026-09-09T13:38:29.800812497+02:00"
+    created: "2026-09-09T17:15:33.697357763+02:00"
     description: Isolated in-cluster executor for compiled OneKS application plans
     digest: a75522a300e4c9e9d0124b4e692416897b9ac99834800655dfe2a6682e4a002a
     name: oneks-application-controller
@@ -302,4 +312,4 @@ entries:
     urls:
     - https://jaimecb.github.io/k8s-monitoring/charts/oneks-application-controller-0.6.0.tgz
     version: 0.6.0
-generated: "2026-09-09T13:38:29.777359258+02:00"
+generated: "2026-09-09T17:15:33.583465656+02:00"
